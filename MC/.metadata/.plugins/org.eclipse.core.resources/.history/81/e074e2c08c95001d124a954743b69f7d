@@ -1,0 +1,22 @@
+package bean.cheatsheet;
+
+import java.sql.Date;
+
+public class Bean {
+	
+	private Code code;
+	private Date date;
+	
+	public Bean() {
+		System.out.println("Bean 기본 생성자");	
+	}
+
+	public Bean(Date date) {
+		super();
+		this.date = date;
+	}
+	
+	
+	
+
+}

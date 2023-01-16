@@ -1,0 +1,5 @@
+package strategy.framework.common.exception;
+
+public class HandleableException {
+
+}
